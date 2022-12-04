@@ -1,4 +1,4 @@
-# default
+# Uganda phones
 
 ## Project setup
 
