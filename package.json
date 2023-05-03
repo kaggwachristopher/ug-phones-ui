@@ -10,7 +10,7 @@
     "@babel/core": "^7.20.5",
     "@mdi/font": "7.0.96",
     "roboto-fontface": "*",
-    "ug-phone": "^2.0.0",
+    "ug-phone": "^2.0.1",
     "vue": "^3.2.38",
     "vuetify": "^3.0.0",
     "webfontloader": "^1.0.0"
